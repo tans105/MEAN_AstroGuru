@@ -1,0 +1,40 @@
+<md-dialog aria-label="Mango (Fruit)">
+    <form ng-cloak>
+        <md-toolbar >
+            <div class="md-toolbar-tools" style="background-color: black; color:deeppink;">
+                <h2 ng-model="name">{{name}}</h2>
+                <span flex></span>
+                <md-button class="md-icon-button" ng-click="cancel()">
+                    <md-icon md-svg-src="images/icons/cancel.svg" aria-label="Close dialog"></md-icon>
+                </md-button>
+            </div>
+        </md-toolbar>
+
+        <md-dialog-content>
+            <div class="md-dialog-content" ng-model="content">
+                <!--<h2 ng-model="content">{{content}}</h2>-->
+                <p ng-bind-html="content"></p>
+            </div>
+        </md-dialog-content>
+
+        <md-dialog-actions layout="row">
+            <md-button href="http://en.wikipedia.org/wiki/Mango" target="_blank" md-autofocus>
+                More on Wikipedia
+            </md-button>
+            <span flex></span>
+            <md-button ng-click="addLike()">
+                <md-icon md-svg-src="images/icons/like.svg" aria-label="Close dialog"></md-icon>
+            </md-button>
+            <md-button ng-model="getLike">
+                {{getLike}}
+            </md-button>
+            <md-button ng-click="addDislike()">
+                <md-icon md-svg-src="images/icons/dislike.svg" aria-label="Close dialog"></md-icon>
+            </md-button>
+            <md-button ng-click="answer('not useful')">
+                {{getDislike}}
+            </md-button>
+        </md-dialog-actions>
+    </form>
+</md-dialog>
+</script>
