@@ -1,6 +1,6 @@
 # MeanAstroguru
 
-It's a demo astrology based web application. It is built on MEAN stack along styled using bootstrap.
+It's a demo astrology based web application built using MEAN stack styled using bootstrap.
 
 Angular parts uses ng-route,sanitize along with angular materials
 Server side is handled using NodeJs.
