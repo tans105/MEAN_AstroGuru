@@ -1,11 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="33344750-914c-4c03-821e-5785f481d8c1" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/routes/janampatri.js" />
+    <list default="true" id="33344750-914c-4c03-821e-5785f481d8c1" name="Default" comment="Janam patri form submission">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app.js" afterPath="$PROJECT_DIR$/app.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/javascripts/janampatri.js" afterPath="$PROJECT_DIR$/public/javascripts/janampatri.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/partials/janampatri.html" afterPath="$PROJECT_DIR$/public/partials/janampatri.html" />
     </list>
     <ignored path="MeanAstroguru.iws" />
@@ -28,21 +27,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="app.js" pinned="false" current-in-tab="false">
+      <file leaf-file-name="app.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="29" column="58" selection-start-line="29" selection-start-column="58" selection-end-line="29" selection-end-column="58" />
+            <state relative-caret-position="238">
+              <caret line="32" column="22" selection-start-line="32" selection-start-column="22" selection-end-line="32" selection-end-column="22" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="janampatri.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="janampatri.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/routes/janampatri.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
-              <caret line="12" column="33" selection-start-line="12" selection-start-column="33" selection-end-line="12" selection-end-column="33" />
+            <state relative-caret-position="34">
+              <caret line="4" column="30" selection-start-line="4" selection-start-column="30" selection-end-line="4" selection-end-column="30" />
               <folding>
                 <element signature="e#0#41#0" expanded="false" />
               </folding>
@@ -50,11 +49,21 @@
           </provider>
         </entry>
       </file>
+      <file leaf-file-name="janampatri.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/public/javascripts/janampatri.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="204">
+              <caret line="12" column="16" selection-start-line="12" selection-start-column="16" selection-end-line="12" selection-end-column="16" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="janampatri.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/public/partials/janampatri.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="263">
-              <caret line="42" column="48" selection-start-line="42" selection-start-column="48" selection-end-line="42" selection-end-column="48" />
+            <state relative-caret-position="65">
+              <caret line="30" column="42" selection-start-line="30" selection-start-column="42" selection-end-line="30" selection-end-column="42" />
               <folding />
             </state>
           </provider>
@@ -86,12 +95,12 @@
         <option value="$PROJECT_DIR$/public/templates/header.html" />
         <option value="$PROJECT_DIR$/public/javascripts/app.js" />
         <option value="$PROJECT_DIR$/views/index.ejs" />
-        <option value="$PROJECT_DIR$/public/javascripts/janampatri.js" />
         <option value="$PROJECT_DIR$/public/partials/horoscope.html" />
         <option value="$PROJECT_DIR$/public/partials/about.html" />
-        <option value="$PROJECT_DIR$/app.js" />
-        <option value="$PROJECT_DIR$/public/partials/janampatri.html" />
         <option value="$PROJECT_DIR$/routes/janampatri.js" />
+        <option value="$PROJECT_DIR$/public/partials/janampatri.html" />
+        <option value="$PROJECT_DIR$/public/javascripts/janampatri.js" />
+        <option value="$PROJECT_DIR$/app.js" />
       </list>
     </option>
   </component>
@@ -144,9 +153,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
-      <pane id="PackagesPane" />
       <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -181,6 +189,7 @@
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -189,7 +198,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="javascript.nodejs.core.library.configured.version" value="4.4.0" />
     <property name="js-jscs-nodeInterpreter" value="C:\Program Files\nodejs\node.exe" />
-    <property name="SearchEverywhereHistoryKey" value="janam&#9;FILE&#9;file://C:/Users/Tan$/Downloads/GIT/MeanAstroguru/public/partials/janampatri.html&#10;jan&#9;FILE&#9;file://C:/Users/Tan$/Downloads/GIT/MeanAstroguru/public/javascripts/janampatri.js&#10;index&#9;FILE&#9;file://C:/Users/Tan$/Downloads/GIT/MeanAstroguru/views/index.ejs&#10;jqu&#9;FILE&#9;file://C:/Users/Tan$/Downloads/GIT/MeanAstroguru/public/libs/jquery/dist/jquery.js&#10;bootstrap&#9;FILE&#9;file://C:/Users/Tan$/Downloads/GIT/MeanAstroguru/public/libs/bootstrap/dist/css/bootstrap.css&#10;app.&#9;FILE&#9;file://C:/Users/Tan$/Downloads/GIT/MeanAstroguru/app.js&#10;app.j&#9;RUN_CONFIGURATION&#9;app.js&#10;app.js&#9;FILE&#9;file://C:/Users/Tan$/Downloads/GIT/MeanAstroguru/public/javascripts/app.js&#10;about&#9;FILE&#9;file://C:/Users/Tan$/Downloads/GIT/MeanAstroguru/public/partials/about.html&#10;horoscope.html&#9;FILE&#9;file://C:/Users/Tan$/Downloads/GIT/MeanAstroguru/public/partials/horoscope.html&#10;index.&#9;FILE&#9;file://C:/Users/Tan$/Downloads/GIT/MeanAstroguru/views/index.ejs&#10;footer&#9;FILE&#9;file://C:/Users/Tan$/Downloads/GIT/MeanAstroguru/public/templates/footer.html&#10;contact&#9;FILE&#9;file://C:/Users/Tan$/Downloads/GIT/MeanAstroguru/public/partials/contact.html&#10;header.&#9;FILE&#9;file://C:/Users/Tan$/Downloads/GIT/MeanAstroguru/public/templates/header.html" />
+    <property name="SearchEverywhereHistoryKey" value="jana&#9;FILE&#9;file://C:/Users/Tan$/Downloads/GIT/MeanAstroguru/routes/janampatri.js&#10;janampatri&#9;FILE&#9;file://C:/Users/Tan$/Downloads/GIT/MeanAstroguru/public/javascripts/janampatri.js&#10;janam&#9;FILE&#9;file://C:/Users/Tan$/Downloads/GIT/MeanAstroguru/public/partials/janampatri.html&#10;jan&#9;FILE&#9;file://C:/Users/Tan$/Downloads/GIT/MeanAstroguru/public/javascripts/janampatri.js&#10;index&#9;FILE&#9;file://C:/Users/Tan$/Downloads/GIT/MeanAstroguru/views/index.ejs&#10;jqu&#9;FILE&#9;file://C:/Users/Tan$/Downloads/GIT/MeanAstroguru/public/libs/jquery/dist/jquery.js&#10;bootstrap&#9;FILE&#9;file://C:/Users/Tan$/Downloads/GIT/MeanAstroguru/public/libs/bootstrap/dist/css/bootstrap.css&#10;app.&#9;FILE&#9;file://C:/Users/Tan$/Downloads/GIT/MeanAstroguru/app.js&#10;app.j&#9;RUN_CONFIGURATION&#9;app.js&#10;app.js&#9;FILE&#9;file://C:/Users/Tan$/Downloads/GIT/MeanAstroguru/public/javascripts/app.js&#10;about&#9;FILE&#9;file://C:/Users/Tan$/Downloads/GIT/MeanAstroguru/public/partials/about.html&#10;horoscope.html&#9;FILE&#9;file://C:/Users/Tan$/Downloads/GIT/MeanAstroguru/public/partials/horoscope.html&#10;index.&#9;FILE&#9;file://C:/Users/Tan$/Downloads/GIT/MeanAstroguru/views/index.ejs&#10;footer&#9;FILE&#9;file://C:/Users/Tan$/Downloads/GIT/MeanAstroguru/public/templates/footer.html&#10;contact&#9;FILE&#9;file://C:/Users/Tan$/Downloads/GIT/MeanAstroguru/public/partials/contact.html&#10;header.&#9;FILE&#9;file://C:/Users/Tan$/Downloads/GIT/MeanAstroguru/public/templates/header.html" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
   </component>
   <component name="RecentsManager">
@@ -668,7 +677,9 @@
       <workItem from="1480157935635" duration="1825000" />
       <workItem from="1480159951870" duration="4632000" />
       <workItem from="1480165791951" duration="1045000" />
-      <workItem from="1480174845153" duration="2234000" />
+      <workItem from="1480174845153" duration="2493000" />
+      <workItem from="1480230894632" duration="889000" />
+      <workItem from="1480261902910" duration="5287000" />
     </task>
     <task id="LOCAL-00001" summary="Deployed angular web app on NodeJs server">
       <created>1480166254350</created>
@@ -677,11 +688,18 @@
       <option name="project" value="LOCAL" />
       <updated>1480166254350</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Janam patri form submission">
+      <created>1480177148485</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1480177148485</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9736000" />
+    <option name="totallyTimeSpent" value="16171000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -755,7 +773,8 @@
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
     <MESSAGE value="Deployed angular web app on NodeJs server" />
-    <option name="LAST_COMMIT_MESSAGE" value="Deployed angular web app on NodeJs server" />
+    <MESSAGE value="Janam patri form submission" />
+    <option name="LAST_COMMIT_MESSAGE" value="Janam patri form submission" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -768,13 +787,23 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/app.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="21" column="24" selection-start-line="21" selection-start-column="24" selection-end-line="21" selection-end-column="24" />
+        <state relative-caret-position="493">
+          <caret line="29" column="58" selection-start-line="29" selection-start-column="58" selection-end-line="29" selection-end-column="58" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/views/index.ejs">
+    <entry file="file://$PROJECT_DIR$/routes/janampatri.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="1" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
+          <folding>
+            <element signature="e#0#41#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/partials/janampatri.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -782,10 +811,28 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/public/templates/header.html">
+    <entry file="file://$PROJECT_DIR$/app.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" column="38" selection-start-line="14" selection-start-column="38" selection-end-line="14" selection-end-column="38" />
+        <state relative-caret-position="493">
+          <caret line="29" column="58" selection-start-line="29" selection-start-column="58" selection-end-line="29" selection-end-column="58" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/routes/janampatri.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#41#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/partials/janampatri.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="714">
+          <caret line="42" column="48" selection-start-line="42" selection-start-column="48" selection-end-line="42" selection-end-column="48" />
           <folding />
         </state>
       </provider>
@@ -802,7 +849,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -810,7 +856,28 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="238">
           <caret line="14" column="38" selection-start-line="14" selection-start-column="38" selection-end-line="14" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="21" column="24" selection-start-line="21" selection-start-column="24" selection-end-line="21" selection-end-column="24" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/index.ejs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/templates/header.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="38" selection-start-line="14" selection-start-column="38" selection-end-line="14" selection-end-column="38" />
         </state>
       </provider>
     </entry>
@@ -826,7 +893,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -855,7 +921,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
           <caret line="15" column="3" selection-start-line="15" selection-start-column="3" selection-end-line="15" selection-end-column="3" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -984,7 +1049,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="238">
           <caret line="14" column="38" selection-start-line="14" selection-start-column="38" selection-end-line="14" selection-end-column="38" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -992,14 +1056,29 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="153">
           <caret line="29" column="0" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/partials/janampatri.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="65">
+          <caret line="30" column="42" selection-start-line="30" selection-start-column="42" selection-end-line="30" selection-end-column="42" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/public/javascripts/janampatri.js">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="16" selection-start-line="12" selection-start-column="16" selection-end-line="12" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/routes/janampatri.js">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
-          <caret line="4" column="59" selection-start-line="4" selection-start-column="59" selection-end-line="4" selection-end-column="59" />
+          <caret line="4" column="30" selection-start-line="4" selection-start-column="30" selection-end-line="4" selection-end-column="30" />
           <folding>
             <element signature="e#0#41#0" expanded="false" />
           </folding>
@@ -1008,27 +1087,9 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="29" column="58" selection-start-line="29" selection-start-column="58" selection-end-line="29" selection-end-column="58" />
+        <state relative-caret-position="238">
+          <caret line="32" column="22" selection-start-line="32" selection-start-column="22" selection-end-line="32" selection-end-column="22" />
           <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/public/partials/janampatri.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="263">
-          <caret line="42" column="48" selection-start-line="42" selection-start-column="48" selection-end-line="42" selection-end-column="48" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/routes/janampatri.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="12" column="33" selection-start-line="12" selection-start-column="33" selection-end-line="12" selection-end-column="33" />
-          <folding>
-            <element signature="e#0#41#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
