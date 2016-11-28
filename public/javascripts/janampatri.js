@@ -8,12 +8,7 @@ app.controller('JanampatriCtrl', function ($scope, $mdDialog, $http) {
     $scope.submitUserForm = function (isValid) {
         console.log($scope.user);
         if (isValid) {
-            $http({
-                method: 'POST',
-                url: '/storeCustomerDetails',
-                data: $scope.user, //forms user object
-
-            })
+            $http.post('/storeCustomerDetails', $scope.user)
                 .success(function (data) {
                     console.log(data);
                 });

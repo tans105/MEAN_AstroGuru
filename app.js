@@ -28,10 +28,8 @@ app.use('/users', users);
 
 //routes
 var janampatriController = require('./routes/janampatri');
-// app.post('/storeCustomerDetails', janampatriController.storeCustomer);
-app.post('/storeCustomerDetails',function(req,res){
-   console.log("POST");
-});
+app.post('/storeCustomerDetails', janampatriController.storeCustomer);
+
 
 
 // catch 404 and forward to error handler
