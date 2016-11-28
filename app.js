@@ -31,7 +31,6 @@ var janampatriController = require('./routes/janampatri');
 app.post('/storeCustomerDetails', janampatriController.storeCustomer);
 
 
-
 // catch 404 and forward to error handler
 app.use(function (req, res, next) {
     var err = new Error('Not Found');
